@@ -1,5 +1,10 @@
 # Publicações acadêmicas
 
+
+[Lattes](http://lattes.cnpq.br/4370637220566487)
+[Orcid](https://orcid.org/0000-0001-7060-3446)
+
+
 ## A formação das regras de experiência na metodologia Weberiana e sua adequação aos critérios de validação científicos (Tese)
 
 [Arquivo](https://github.com/henriqueffc/academia/blob/main/Tese%20HenriqueCust%C3%B3dio.pdf)
