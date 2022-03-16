@@ -2,6 +2,7 @@
 
 
 [Lattes](http://lattes.cnpq.br/4370637220566487)
+
 [Orcid](https://orcid.org/0000-0001-7060-3446)
 
 
