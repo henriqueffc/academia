@@ -33,6 +33,12 @@ graduação em Filosofia, Universidade Federal de Uberlândia, Uberlândia, 2012
 
 
 
+## O conceito de imputabilidade causal em Max Weber (Monografia)
+
+[Arquivo](https://github.com/henriqueffc/academia/blob/main/monografia.pdf)
+
+>CUSTÓDIO, Henrique F. F. _O conceito de imputabilidade causal em Max Weber_. Monografia (Graduação em Filosofia). Curso de graduação em Filosofia, Universidade Federal de Uberlândia, Uberlândia, 2007. 44 f.
+
 
 
 ## Ciência como vocação: racionalidades e irracionalidades no velho e no novo mundo (Livro)
