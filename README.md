@@ -8,7 +8,7 @@ Esta tese investiga a formação das regras de experiência na metodologia weber
 
 https://repositorio.ufmg.br/handle/1843/30214
 
-CUSTÓDIO, Henrique F. F. _A formação das regras de experiência na metodologia Weberiana e sua adequação aos critérios de validação científicos_. Tese (Doutorado em Filosofia). Programa de Pós-graduação em Filosofia, Universidade Federal de Minas Gerais, Belo Horizonte, 2019. 110 f. Disponível em: <https://repositorio.ufmg.br/bitstream/1843/30214/1/Tese%20HenriqueCust%c3%b3dio.pdf>
+>CUSTÓDIO, Henrique F. F. _A formação das regras de experiência na metodologia Weberiana e sua adequação aos critérios de validação científicos_. Tese (Doutorado em Filosofia). Programa de Pós-graduação em Filosofia, Universidade Federal de Minas Gerais, Belo Horizonte, 2019. 110 f. Disponível em: <https://repositorio.ufmg.br/bitstream/1843/30214/1/Tese%20HenriqueCust%c3%b3dio.pdf>
 
 
 
@@ -21,8 +21,12 @@ Esta dissertação investiga a fundamentação do conceito de possibilidade obje
 
 https://repositorio.ufu.br/handle/123456789/15549
 
-CUSTÓDIO, Henrique F. F. _A fundamentação do conceito de possibilidade objetiva na metodologia weberiana_. Dissertação (Mestrado em Filosofia). Programa de Pós-
+>CUSTÓDIO, Henrique F. F. _A fundamentação do conceito de possibilidade objetiva na metodologia weberiana_. Dissertação (Mestrado em Filosofia). Programa de Pós-
 graduação em Filosofia, Universidade Federal de Uberlândia, Uberlândia, 2012. 95 f. Disponível em: <http://repositorio.ufu.br/bitstream/123456789/15549/1/d.pdf>.
+
+
+
+
 
 
 ## Ciência como vocação: racionalidades e irracionalidades no velho e no novo mundo (Livro)
@@ -33,7 +37,12 @@ Marcos César Seneda (org.) & Henrique F. F. Custódio (org.)
 
 Uma das peculiaridades instigantes desse livro, caro leitor, é a sobreposição dos temas, que desdobram e estratificam leituras preparadas por especialistas de diversas áreas de conhecimento. Penetrando no mesmo tema por diversas perspectivas, quem o lê se aproxima não somente de Max Weber, mas acaba se familiarizando, inclusive, com o modo pelo qual seu pensamento está aderido às diversas ciências que ainda hoje procuram compreender a herança da nossa modernidade. Com espírito interdisciplinar, apresentamos a você, leitor, esses textos oriundos de pesquisadores de diferentes disciplinas. E se pedimos a sua leitura, é porque consideramos que eles representam um bom exemplo da atual produção latino-americana da Weberforschung. 
 
-SENEDA, Marcos César. (org.) ; CUSTÓDIO, Henrique Florentino Faria (org.) . _Ciência como vocação: racionalidades e irracionalidades no velho e no novo mundo_. 1. ed. Porto Alegre: Editora Fi, 2020. 306p .
+>SENEDA, Marcos César. (org.) ; CUSTÓDIO, Henrique Florentino Faria (org.) . _Ciência como vocação: racionalidades e irracionalidades no velho e no novo mundo_. 1. ed. Porto Alegre: Editora Fi, 2020. 306p .
+
+
+
+
+
 
 ## Max Weber: religião, valores e teoria do conhecimento (Livro)
 
@@ -43,3 +52,4 @@ Marcos César Seneda (org.) & Henrique F. F. Custódio (org.)
 
 A comemoração dos 150 anos de nascimento de Max Weber foi considerada uma data promissora para novos debates sobre o pensamento deste intelectual, cuja obra representa um dos fundamentos do pensamento social contemporâneo. Com a realização do Colóquio Max Weber: 150 anos, foi possível reunir diferentes pesquisadores que têm estudado o seu pensamento ou investigado temas weberianos no Brasil. Uma das características marcantes do evento é que ele foi multidisciplinar e teria de sê-lo, uma vez que a obra de Max Weber percorre diferentes áreas do saber. Por isso participaram do colóquio filósofos, historiadores, sociólogos, cientistas políticos e antropólogos. Este livro é resultado das contribuições de diferentes especialistas que participaram daquele encontro, e tem por escopo apresentar as pesquisas recentes no campo da crítica weberiana. 
 
+>SENEDA, Marcos César. (Org.) ; CUSTÓDIO, Henrique F. F. (Org.) . Max Weber: religião, valores e teoria do conhecimento. 1. ed. Uberlândia: EDUFU, 2016. 256p .
