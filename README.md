@@ -162,5 +162,5 @@ desdobramentos, já se tornou inseparável de muitos modos significativos de se
 interpretar a nossa realidade.
 
 > SENEDA, Marcos César (org.); BOLDA, Bruna dos Santos (org.); CUSTÓDIO,
-> Henrique F. F.; SILVA, Luiz Sérgio Duarte da (org.). Weberianismo à
+> Henrique F. F. (org.); SILVA, Luiz Sérgio Duarte da (org.). Weberianismo à
 > brasileira. Cachoeirinha: Editora Fi, 2024. 396p. DOI: 10.22350/9786552720436
