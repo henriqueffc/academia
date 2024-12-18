@@ -102,13 +102,13 @@ textos oriundos de pesquisadores de diferentes disciplinas. E se pedimos a sua
 leitura, é porque consideramos que eles representam um bom exemplo da atual
 produção latino-americana da _Weberforschung_.
 
-> SENEDA, Marcos César. (org.) ; CUSTÓDIO, Henrique Florentino Faria (org.) .
+> SENEDA, Marcos César. (org.); CUSTÓDIO, Henrique Florentino Faria (org.).
 > _Ciência como vocação: racionalidades e irracionalidades no velho e no novo
-> mundo_. 1. ed. Porto Alegre: Editora Fi, 2020. 306p .
+> mundo_. 1. ed. Porto Alegre: Editora Fi, 2020. 306p.
 
-## Max Weber: religião, valores e teoria do conhecimento (Livro)
+## Max Weber: religião, valores e teoria do conhecimento (livro)
 
-Marcos César Seneda (org.) & Henrique F. F. Custódio (org.)
+Marcos César Seneda (org.); Henrique F. F. Custódio (org.)
 
 [Arquivo](https://github.com/henriqueffc/academia/blob/main/livroWeberI.pdf)
 
@@ -125,6 +125,42 @@ resultado das contribuições de diferentes especialistas que participaram daque
 encontro, e tem por escopo apresentar as pesquisas recentes no campo da crítica
 weberiana.
 
-> SENEDA, Marcos César. (org.) ; CUSTÓDIO, Henrique F. F. (org.) . Max Weber:
+> SENEDA, Marcos César. (org.); CUSTÓDIO, Henrique F. F. (org.). Max Weber:
 > religião, valores e teoria do conhecimento. 1. ed. Uberlândia: EDUFU, 2016.
 > 256p .
+
+## Weberianismo à brasileira (livro)
+
+Marcos César Seneda (org.); Bruna dos Santos Bolda (org.); Henrique F. F.
+Custódio; Luiz Sérgio Duarte da Silva (org.).
+
+[Arquivo](https://github.com/henriqueffc/academia/blob/main/livroweber3.pdf)
+
+A obra de Max Weber abarca um amplo arco de disciplinas, expedientes
+metodológicos e problemas, que sempre manifestaram força para se interpretar o
+Brasil. Contudo, para se entender o weberianismo que aqui se formou, não podemos
+cobrar, dos que o impulsionaram e o desdobraram em diversas direções, uma
+fidelidade ingênua ou puritana à matriz construída por Weber. Não queremos usar
+aqui a metáfora da antropofagia, já tão recoberta de significados emblemáticos.
+Mas a verdade é que o pensamento nacional, produzido fora e dentro das
+universidades, sempre devorou o pensamento de Max Weber, sem – e esse é um
+extraordinário mérito – se preocupar como ele teria de ser digerido junto ao
+material ao qual ele tinha que ser imiscuído. Por isso, sempre será interminável
+e indecidível a discussão sobre se determinado pensamento expressa bem ou de
+modo inapropriado os propósitos de Max Weber. Por outro lado, do ponto de vista
+da compreensão da nossa singularidade, é irrecusável que, pelas necessidades de
+discutirmos assuntos e temas tipicamente nossos, o pensamento weberiano teve de
+ser reinventado no Brasil, tendo-lhe sido agregadas perspectivas e inovações
+originais que somente por nossas mãos e nossos olhos poderiam ter sido
+construídas. Os impactos e absorções da modernidade em território tão
+diversificado como o nosso, ou as aderências e recusas aos aspectos políticos,
+econômicos e culturais da globalização, também formam o quadro das preocupações
+recentes que retratam a apreensão do pensamento de Weber entre nós. Esse livro
+documenta, portanto, esse fato, a saber, de que a interpretação da obra de Weber
+já ganhou uma dimensão singular no Brasil, de tal forma que, por desregrados
+desdobramentos, já se tornou inseparável de muitos modos significativos de se
+interpretar a nossa realidade.
+
+> SENEDA, Marcos César (org.); BOLDA, Bruna dos Santos (org.); CUSTÓDIO,
+> Henrique F. F.; SILVA, Luiz Sérgio Duarte da (org.). Weberianismo à
+> brasileira. Cachoeirinha: Editora Fi, 2024. 396p. DOI: 10.22350/9786552720436
